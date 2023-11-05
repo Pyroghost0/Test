@@ -2,7 +2,7 @@
 
 <img src="Robots%20Discord.png" width = "100" >
 
-<img src="Robots%20Discord.png" >
+<img src="ezgif.com-optimize (2).gif" >
 
 <img src="Robots%20Discord.png" width = "100" height = "50">
 
